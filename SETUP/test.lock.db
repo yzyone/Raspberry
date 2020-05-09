@@ -1,0 +1,6 @@
+#FileLock
+#Fri Apr 17 17:04:45 CST 2020
+hostName=MIBOOK
+id=1718761eccbe8bd421a22a561aebfb7533a7144fe70
+method=file
+server=169.254.95.255\:9825
